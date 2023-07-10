@@ -25,7 +25,8 @@ app.use(
       'http://localhost:5000',
       'http://127.0.0.1:5000',
       'https://swapnowv2.onrender.com',
-      'http://swap.govercity.com/',
+      'http://swap.govercity.com',
+      'https://swap.govercity.com',
       'https://govercity.com',
     ],
   })
